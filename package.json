@@ -35,7 +35,7 @@
     "fixture": "node test/fixture/site.js"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.5.8",
+    "@biomejs/biome": "2.5.10",
     "@types/node": "26.2.0",
     "typescript": "7.0.2"
   },
